@@ -697,27 +697,3 @@ label, a
   .all1       {position: relative;
                margin-left:265%;}
 }           
-@media (max-width:640px)
-{/*adaptive settings horizontal*/
-  ul     {margin-left:5%}
- .item   {display:inline;  
-          margin-left:275px;
-          font-size:20px;}
-  #img_container  {margin-left:130%;}
-  #img_container2 {margin-left:130%;}
- .imgrick {margin-left:120%;
-           margin-top:-10%}
-  h1      {margin-left:5%;
-           margin-top:0%;
-           font-size:32px;}
-  p       {position:relative;
-           left:650px;
-           font-size:20px}        
-
-  #characters {margin-right:55%;}
-  .all        {margin-right:-425%;} 
-  #gallery    {margin-left:130%;}
-  #pic        {margin-left:125%;}
-  .all1       {position: relative;
-               margin-left:150%;}
-}                 
