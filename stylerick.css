@@ -703,8 +703,8 @@ label, a
  .item   {display:inline;  
           margin-left:275px;
           font-size:20px;}
-  #img_container  {margin-left:140%;}
-  #img_container2 {margin-left:140%;}
+  #img_container  {margin-left:130%;}
+  #img_container2 {margin-left:130%;}
  .imgrick {margin-left:120%;
            margin-top:-10%}
   h1      {margin-left:5%;
@@ -714,10 +714,10 @@ label, a
            left:650px;
            font-size:20px}        
 
-  #characters {margin-right:45%;}
+  #characters {margin-right:55%;}
   .all        {margin-right:-425%;} 
-  #gallery    {margin-left:160%;}
-  #pic        {margin-left:135%;}
+  #gallery    {margin-left:130%;}
+  #pic        {margin-left:125%;}
   .all1       {position: relative;
-               margin-left:170%;}
+               margin-left:150%;}
 }                 
